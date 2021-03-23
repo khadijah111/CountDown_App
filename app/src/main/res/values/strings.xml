@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Count Down Game</string>
+    <string name="tap_me">Tap me!!</string>
+    <string name="total_score">Total score: %s</string>
+    <string name="past_time">Past time: %s</string>
+    <string name="final_game">Your final score: %s</string>
+</resources>
